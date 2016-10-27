@@ -1,4 +1,4 @@
-# Black-Support-Bot
+# * pm * resan *
 * * *
 # ابتدا فایل بات.لوا رو باز کنید و در خط 1 در قسمت مشخص شده توکنتون رو بزارید
 #در خط 8 هم ایدی عددیتون رو بزارید
@@ -11,9 +11,9 @@ sudo apt-get update
 sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-dev lua-socket lua-sec lua-expat libevent-dev make unzip git redis-server autoconf g++ libjansson-dev libpython-dev expat libexpat1-dev
 
 
-git clone https://github.com/Mehdi-HS/Black-Support-Bot.git
+git clone hhttps://github.com/mehmehran/pmresan.git
 
-cd Black-Support-Bot
+cd pmresan
 
 screen
 
@@ -25,14 +25,14 @@ chmod +x launch.sh
 
 # بعد ار نصب کردن ربات حتما اونو تو گروه معمولی ادد کنید و دستور های زیر رو بفرستید تا ربات کار کنه
 
-/setrealm
+/setrealm [تغیر ریمل]
+ # * *
+/startmsg [پیام استار.دلخواه]
 
-/startmsg BlackSuppport Bot
-
-/donemsg Send!
+/donemsg [پیام ارسال.دلخواه]
 
 
-تمام:)
-* * *
- Developer > [MehdiHS](https://Telegram.me/MehdiHS) | 
- [Channel](https://Telegram.me/Black_CH)
+تمام
+* * * * * * * * * * * ** * * * * * * * * * * *
+ Developer > [mehran](https://Telegram.me/sudo_tokhs_telegram) | 
+ [Channel](https://Telegram.me/plugin_free)
