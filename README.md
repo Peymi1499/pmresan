@@ -5,30 +5,32 @@
 #در خط 8 هم ایدی عددیتون رو بزارید
 * * *
 # آموزش نصب
-دستور های زیر رو به ترتیب در ترمینال بزنید
+#دستور های زیر رو به ترتیب در ترمینال بزنید
 * * *
-sudo apt-get update
+#sudo apt-get update
 
-sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-dev lua-socket lua-sec lua-expat libevent-dev make unzip git redis-server autoconf g++ libjansson-dev libpython-dev expat libexpat1-dev
+#sudo apt-get install
 
-
-git clone hhttps://github.com/mehmehran/pmresan.git
-
-cd pmresan
-
-screen
+#libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-dev lua-socket lua-sec lua-expat libevent-dev make unzip git redis-server autoconf g++ libjansson-dev libpython-dev expat libexpat1-dev
 
 
-   chmod +x launch.sh
+#git clone hhttps://github.com/mehmehran/pmresan.git
+
+#cd pmresan
+
+#screen
 
 
- ./launch.sh install
+#chmod +x launch.sh
+
+
+#./launch.sh install
 
  
- ./launch.sh
+ #./launch.sh
 
 
- * * * * 
+
 
 
 
