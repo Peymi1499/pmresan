@@ -25,10 +25,15 @@ screen
  ./launch.sh install
 
  
- *./launch.sh
+ ./launch.sh
+
+
  * * * * 
 
+
+
 * * * * * * 
+
 # بعد ار نصب کردن ربات حتما اونو تو گروه معمولی ادد کنید و دستور های زیر رو بفرستید تا ربات کار کنه
 
 /setrealm [تغیر ریمل]
@@ -38,9 +43,9 @@ screen
 
 
 /donemsg [پیام ارسال.دلخواه]
-* * * * * 
 
-تمام
+تمام):
+
 * * * * * * * * * * * * * * * * * * * * * * * *
  Developer > [mehran](https://Telegram.me/sudo_tokhs_telegram) | 
  [Channel](https://Telegram.me/plugin_free)
