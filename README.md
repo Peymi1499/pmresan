@@ -1,4 +1,5 @@
-# * pm * resan *
+#  pm resan
+
 * * *
 # ابتدا فایل بات.لوا رو باز کنید و در خط 1 در قسمت مشخص شده توکنتون رو بزارید
 #در خط 8 هم ایدی عددیتون رو بزارید
@@ -17,22 +18,29 @@ cd pmresan
 
 screen
 
-chmod +x launch.sh
 
-./launch.sh install
+   chmod +x launch.sh
 
-./launch.sh
 
+ ./launch.sh install
+
+ 
+ *./launch.sh
+ * * * * 
+
+* * * * * * 
 # بعد ار نصب کردن ربات حتما اونو تو گروه معمولی ادد کنید و دستور های زیر رو بفرستید تا ربات کار کنه
 
 /setrealm [تغیر ریمل]
- # * *
+ 
+
 /startmsg [پیام استار.دلخواه]
 
-/donemsg [پیام ارسال.دلخواه]
 
+/donemsg [پیام ارسال.دلخواه]
+* * * * * 
 
 تمام
-* * * * * * * * * * * ** * * * * * * * * * * *
+* * * * * * * * * * * * * * * * * * * * * * * *
  Developer > [mehran](https://Telegram.me/sudo_tokhs_telegram) | 
  [Channel](https://Telegram.me/plugin_free)
