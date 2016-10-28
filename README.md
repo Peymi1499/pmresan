@@ -26,7 +26,7 @@
 
 #./launch.sh install
 
-#./launch.sh
+#./run.sh
 
 * *
 
