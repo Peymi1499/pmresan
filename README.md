@@ -21,10 +21,10 @@
 #screen
 
 
-#chmod +x launch.sh
+#chmod +x run.sh
 
 
-#./launch.sh install
+#./run.sh install
 
 #./run.sh
 
