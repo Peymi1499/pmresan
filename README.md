@@ -43,5 +43,5 @@
 تمام):
 
 * * * * * * * * * * * * * * * * * * * * * * * *
- Developer > [mehran](https://Telegram.me/sudo_tokhs_telegram) | 
+ Developer > [Peyman](https://Telegram.me/sudo_tokhs_telegram) | 
  [Channel](https://Telegram.me/plugin_free)
